@@ -1,3 +1,3 @@
 # GitHome
 Personal for studying.
-This is talking about how to use the reference in c++ correctly.
+This is talk you about how to use the reference in c++ correctly.
